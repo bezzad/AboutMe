@@ -1,0 +1,30 @@
+D:\AboutUserControl\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\AboutUserControl\Test\obj\Debug\Test.Form1.resources
+D:\AboutUserControl\Test\obj\Debug\Test.Properties.Resources.resources
+D:\AboutUserControl\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\AboutUserControl\Test\bin\Debug\Test.exe.config
+D:\AboutUserControl\Test\bin\Debug\Test.exe
+D:\AboutUserControl\Test\bin\Debug\Test.pdb
+D:\AboutUserControl\Test\obj\Debug\Test.exe
+D:\AboutUserControl\Test\obj\Debug\Test.pdb
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.exe
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.pdb
+D:\Programming\My App\AboutUserControl\Test\bin\Debug\Test.exe
+D:\Programming\My App\AboutUserControl\Test\bin\Debug\Test.pdb
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Programming\My App\AboutUserControl\Test\bin\Debug\AboutBox.dll
+D:\Programming\My App\AboutUserControl\Test\bin\Debug\AboutBox.pdb
+D:\Programming\My App\AboutUserControl\Test\obj\Debug\Test.AboutBox1.resources
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.exe
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.pdb
+D:\Send Projects\AboutMe\src\Test\bin\Debug\Test.exe
+D:\Send Projects\AboutMe\src\Test\bin\Debug\Test.pdb
+D:\Send Projects\AboutMe\src\Test\bin\Debug\AboutBox.dll
+D:\Send Projects\AboutMe\src\Test\bin\Debug\AboutBox.pdb
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.AboutBox1.resources
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Send Projects\AboutMe\src\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Send Projects\AboutMe\src\Test\bin\Debug\Test.exe.config

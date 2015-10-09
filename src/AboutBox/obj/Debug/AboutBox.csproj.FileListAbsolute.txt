@@ -1,0 +1,15 @@
+D:\Programming\My App\AboutUserControl\AboutBox\bin\Debug\AboutBox.dll
+D:\Programming\My App\AboutUserControl\AboutBox\bin\Debug\AboutBox.pdb
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.csprojResolveAssemblyReference.cache
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.dll
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.pdb
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.csproj.GenerateResource.Cache
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.Properties.Resources.resources
+D:\Programming\My App\AboutUserControl\AboutBox\obj\Debug\AboutBox.g.resources
+D:\Send Projects\AboutMe\src\AboutBox\bin\Debug\AboutBox.dll
+D:\Send Projects\AboutMe\src\AboutBox\bin\Debug\AboutBox.pdb
+D:\Send Projects\AboutMe\src\AboutBox\obj\Debug\AboutBox.g.resources
+D:\Send Projects\AboutMe\src\AboutBox\obj\Debug\AboutBox.Properties.Resources.resources
+D:\Send Projects\AboutMe\src\AboutBox\obj\Debug\AboutBox.csproj.GenerateResource.Cache
+D:\Send Projects\AboutMe\src\AboutBox\obj\Debug\AboutBox.dll
+D:\Send Projects\AboutMe\src\AboutBox\obj\Debug\AboutBox.pdb
